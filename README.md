@@ -18,10 +18,12 @@ Enemy AI: We implemented Unity’s NavMesh for pathfinding and designed enemy be
 Challenges and Lessons Learned
 Modeling for Games: Adapting rendering techniques to game-ready assets taught us the importance of topology and optimization.
 Physics Troubleshooting: Small projectiles and fast movement in Unity often caused collisions to fail, requiring creative solutions and experimentation.
-Pathfinding and AI: Implementing NavMesh and designing diverse enemy behaviors was our first real encounter with AI programming, which took significant amount of time.
+Pathfinding and AI: Implementing NavMesh and designing diverse enemy behaviors was our first real encounter with AI programming, which took a significant amount of time.
 Scope Management: While we had ambitious plans for additional features, our focus on perfecting the core mechanics resulted in several planned ideas being shelved.
 
 Team Members
 Rafael Mallari: UI and 3D Environment Artist
 Sean Ramoya: Programmer and Animator
 Darren Tabago: 3D Weapon Artist and Video Editor
+
+Note: Several files cannot be pushed to GitHub due to file size, therefore the GitHub Code is incomplete and is unplayable.
